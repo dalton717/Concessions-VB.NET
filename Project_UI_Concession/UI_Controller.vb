@@ -1,4 +1,8 @@
-﻿Public Class UI_Controller
+﻿''' <summary>
+''' Controller Class
+''' </summary>
+
+Public Class UI_Controller
     'Declare Vars
     Private Sub UI_Controller_Load(sender As Object, e As EventArgs) Handles MyBase.Load
     End Sub
